@@ -1,0 +1,19 @@
+
+.imagen {
+   float: right;
+}
+
+#texto1 {
+  font-style: italic;
+  font-size: 20px;
+}
+
+#texto2 {
+  font-size: 20px;
+}
+ #texto3 {
+   font-style: italic;
+   color: grey;
+   font-size: 15px;
+   clear: both;
+ }

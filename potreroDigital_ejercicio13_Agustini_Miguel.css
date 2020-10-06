@@ -1,0 +1,20 @@
+.colorrojo {
+  color: red;
+  background-color: blue;
+}
+
+.parrafo {
+  font-size: 16px;
+}
+
+.colorverde {
+  color: green;
+}
+
+#subtitulo2 {
+  font-style: italic;
+}
+
+.subtitulos {
+  font-style: helvetica;
+}
